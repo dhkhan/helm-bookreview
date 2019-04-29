@@ -1,1 +1,13 @@
-ÿþ
+apiVersion: v1
+entries:
+  bookreviewapp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-29T20:59:06.021565+05:30
+    description: A Helm chart for Kubernetes
+    digest: 3190d166e1c58a9d3e51cc9616fb7d0877f4d8171bd08866f632ecf7d81a1619
+    name: bookreviewapp
+    urls:
+    - https://github.com/dhkhan/helm-bookreview/tree/master/bookreviewapp-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-29T20:59:06.0185575+05:30
